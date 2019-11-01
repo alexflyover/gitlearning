@@ -1,4 +1,9 @@
 file11 content
   modified
 
+
 This is modified in master
+
+this was changed in dev6
+
+this is modified when fining confilit when merging
